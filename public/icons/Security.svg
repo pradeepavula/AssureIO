@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="578px" viewBox="0 0 500 578" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Shape</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Security" transform="translate(-150, -124)" fill="#6236FF">
+            <path d="M400,124.389667 L650,179.945333 L650,425 C650,521.236667 584.73,633.24 408.683333,698.443333 L400,701.66 L391.316667,698.443333 C215.270333,633.24 150,521.236667 150,425 L150,179.945333 L400,124.389667 Z M200,220.053667 L200,425 C200,494.15 245.53,588.27 400,648.263333 C554.47,588.27 600,494.15 600,425 L600,220.053667 L400,175.609333 L200,220.053667 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

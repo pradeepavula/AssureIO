@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="156px" height="43px" viewBox="0 0 156 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>blinder</title>
+    <g id="blinder" stroke="none" fill="none" fill-rule="evenodd" stroke-width="1">
+        <g id="Group" transform="translate(3, 4)">
+            <text id="AssureIO" font-family="Arial-BoldMT, Arial" font-size="24" font-weight="bold" fill="#000000">
+                <tspan x="46.7852761" y="23.9444444">AssureIO</tspan>
+            </text>
+            <ellipse id="Oval" stroke="#6366F1" stroke-width="6" cx="19.4178989" cy="17.5" rx="19.4178989" ry="17.5"></ellipse>
+        </g>
+    </g>
+</svg>

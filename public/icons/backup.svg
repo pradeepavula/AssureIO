@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="800px" viewBox="0 0 800 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>backup</title>
+    <g id="backup" stroke="none" fill="none" fill-rule="evenodd" stroke-width="1">
+        <g id="Layer_1" fill="#6236FF">
+            <path d="M6.25,237.5 L793.75,237.5 L793.75,12.5 L6.25,12.5 L6.25,237.5 Z M56.25,62.5 L743.75,62.5 L743.75,187.5 L56.25,187.5 L56.25,62.5 Z" id="Shape" fill-rule="nonzero"></path>
+            <path d="M6.25,512.5 L793.75,512.5 L793.75,287.5 L6.25,287.5 L6.25,512.5 Z M56.25,337.5 L743.75,337.5 L743.75,462.5 L56.25,462.5 L56.25,337.5 Z" id="Shape" fill-rule="nonzero"></path>
+            <path d="M6.25,793.75 L793.75,793.75 L793.75,568.75 L6.25,568.75 L6.25,793.75 Z M56.25,618.75 L743.75,618.75 L743.75,743.75 L56.25,743.75 L56.25,618.75 Z" id="Shape" fill-rule="nonzero"></path>
+            <rect id="Rectangle" fill-rule="nonzero" x="93.75" y="100" width="50" height="50"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="193.75" y="100" width="50" height="50"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="293.75" y="100" width="50" height="50"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="93.75" y="368.75" width="50" height="50"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="193.75" y="368.75" width="50" height="50"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="293.75" y="368.75" width="50" height="50"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="93.75" y="656.25" width="50" height="50"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="193.75" y="656.25" width="50" height="50"></rect>
+            <rect id="Rectangle" fill-rule="nonzero" x="293.75" y="656.25" width="50" height="50"></rect>
+        </g>
+    </g>
+</svg>
